@@ -1,0 +1,1 @@
+python3 sample_django_project.pyz
